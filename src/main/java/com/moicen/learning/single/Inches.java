@@ -1,12 +1,13 @@
+package com.moicen.learning.single;
 class Inches {
     public static void main(String args[]) {
-	long ci;
-	long im;
+        long ci;
+        long im;
 
-	im = 5280 * 12;
+        im = 5280 * 12;
 
-	ci = im * im * im;
+        ci = im * im * im;
 
-	System.out.println("There are " + ci + " cubic inches in cubic mile.");
+        System.out.println("There are " + ci + " cubic inches in cubic mile.");
     }
 }

@@ -1,4 +1,6 @@
-class BlockDemo {
+package com.moicen.learning.single;
+
+public class BlockDemo {
     public static void main(String args[]) {
 	double i, j, d;
 

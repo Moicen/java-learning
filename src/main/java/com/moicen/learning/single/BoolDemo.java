@@ -1,4 +1,6 @@
-class BoolDemo {
+package com.moicen.learning.single;
+
+public class BoolDemo {
     public static void main(String args[]) {
 	boolean b;
 

@@ -1,12 +1,13 @@
+package com.moicen.learning.single;
 class GalToLit {
     public static void main(String args[]) {
-	double gallons;
-	double liters;
+        double gallons;
+        double liters;
 
-	gallons = 10;
+        gallons = 10;
 
-	liters = gallons * 3.7854;
+        liters = gallons * 3.7854;
 
-	System.out.println(gallons + " gallons is " + liters + " liters.");
+        System.out.println(gallons + " gallons is " + liters + " liters.");
     }
 }
